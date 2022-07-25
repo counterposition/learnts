@@ -1,0 +1,14 @@
+{
+  "name": "learnts",
+  "version": "1.0.0",
+  "description": "Learning TypeScript",
+  "main": "dist/index.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "echo 'to be implemented'"
+  },
+  "keywords": [],
+  "author": "Harish Kukreja <harish.kukreja@gmail.com>",
+  "license": "MIT"
+}
