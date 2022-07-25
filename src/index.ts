@@ -1,3 +1,3 @@
-import { message } from './lib.ts';
+import { message } from './lib.js';
 
 console.log(message());

@@ -6,9 +6,17 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "test": "echo 'to be implemented'"
+    "test": "jest",
+    "build": "tsc",
+    "clean": "rm -rf dist/*"
   },
   "keywords": [],
   "author": "Harish Kukreja <harish.kukreja@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.6.0",
+    "jest": "^28.1.3",
+    "ts-jest": "^28.0.7",
+    "typescript": "^4.7.4"
+  }
 }
