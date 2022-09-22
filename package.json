@@ -14,8 +14,8 @@
   "author": "Harish Kukreja <harish.kukreja@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^18.6.0",
-    "typescript": "^4.7.4",
+    "@types/node": "^18.7.18",
+    "typescript": "^4.8.3",
     "vitest": "^0.20.3"
   }
 }
